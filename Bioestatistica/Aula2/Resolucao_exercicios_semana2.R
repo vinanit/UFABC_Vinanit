@@ -12,3 +12,13 @@ df <- df %>%
 
 df$IMC
 
+##Exercicio 2
+
+#Agrupar os dados por sexo, mostrando a média da altura, média do peso e média do IMC por sexo.
+filtro1 = df %>%
+  group_by(sexo) %>%
+  summarize(media_altura = mean(altura), media_peso = mean(peso), media_IMC = mean(IMC))
+
+filtro1
+  
+
