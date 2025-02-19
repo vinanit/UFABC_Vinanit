@@ -1,0 +1,11 @@
+at	peso	altura	glicemia	sexo	raca
+1	100	155	150	fem	branco
+2	60	155	85	masc	negro
+3	70	170	90	fem	asiatico
+4	72	180	92	masc	branco
+5	55	160	NA	fem	negro
+6	90	170	125	masc	asiatico
+7	116	180	126	fem	branco
+8	95	178	130	masc	negro
+9	80	180	NA	fem	asiatico
+10	78	160	105	masc	branco
